@@ -1,0 +1,13 @@
+.button-link {
+    background-color: #ffffff;
+    color: #ff0000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.button-link a {
+    text-decoration: none;
+    color: inherit;
+}
